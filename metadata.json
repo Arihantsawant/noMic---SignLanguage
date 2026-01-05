@@ -1,0 +1,8 @@
+{
+  "name": "noMic - No Noise Club",
+  "description": "A real-time camera-based Sign Language Recognition system powered by Computer Vision and Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
